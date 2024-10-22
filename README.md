@@ -12,4 +12,4 @@ Welcome to the **Flight Information System** project! This project is a full-sta
   - Spring Boot
   - RESTful API
 
-Please vist: https://github.com/NullRivalException to view the code
+Please vist: https://github.com/NullRivalException to view the code.
